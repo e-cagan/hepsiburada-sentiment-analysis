@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+nltk
+pyyaml
+pyserial
+jinja2
+typeguard

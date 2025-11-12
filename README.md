@@ -1,0 +1,1 @@
+[Veri (raw)](https://www.kaggle.com/datasets/metinhsimimi/hepsiburada-300k-reviews-from-hf)
