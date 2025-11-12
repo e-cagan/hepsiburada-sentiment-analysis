@@ -6,4 +6,4 @@
 
 ![Labels Dağılımı](reports/baseline_plots/label_distribution.png)
 
-![Histogram Uzunlukları](reports/baseline_plots/review_length_histogram.png)
+![Histogram Uzunlukları](reports/baseline_plots/length_hist.png)
